@@ -2,8 +2,8 @@
 <html lang="ja">
   <head>
     <meta charset="utf-8">
-    <title>My Work - Portfolio</title>
-    <meta name="description" content="テキストテキストテキストテキストテキストテキストテキストテキスト">
+    <title>マイページ</title>
+    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="img/favicon.ico">
     <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
@@ -12,7 +12,7 @@
 
   <body>
     <header id="header">
-      <h1 class="site-title"><a href="index.html"><img src="img/logo.svg" alt="My Work"></a></h1>
+      <h1 class="site-title"><a href="index.html"><img src="img/冒頭の写真" alt="Mypage"></a></h1>
       <nav>
         <ul>
           <li><a href="#about">About</a></li>
@@ -21,7 +21,7 @@
           <li><a href="#contact">Contact</a></li>
           <li>
             <a href="https://www.instagram.com/" target="_blank">
-              <img class="icon" src="./img/icon-instagram.png" alt="インスタグラム">
+              <img class="icon" src="./img/自分の写真" alt="インスタグラム">
             </a>
           </li>
         </ul>
@@ -41,9 +41,9 @@
         <ul>
           <li>Xxxxx Ashley</li>
           <li>2th Floor xxxxx Building x-x-x Nishiazabu, Minato-ku, Tokyo 106-0031 Japan</li>
-          <li>tel: 000-0000-0000</li>
-          <li>url: www.xxxxxx.jp</li>
-          <li>mail: xxx@xxxxxx.jp</li>
+          <li>tel: 090-0000-0000</li>
+          <li>url: https://note.com/sky_like10/</li>
+          <li>Mail Taku.sin9011@gmail.com </li>
         </ul>
         <p>
           プロフィールテキストテキストテキストテキストテキストテキストテキストテキストテキストスト
