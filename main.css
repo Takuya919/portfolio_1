@@ -37,12 +37,12 @@ div.watasi_maru {
 #header .logo {
    font-family: serif;
    color: white;
-  font-size: 30px;
+  font-size: 45px;
 }
 #header .sublogo {
   font-family: serif;
    color: white;
-   font-size: 10px;
+   font-size: 20px;
 }
 
 /*------------------- 見出し ---------------------------------*/
@@ -53,7 +53,7 @@ h2 {
 }
 
 h3 {
-  border-bottom: 6px double #000;
+  border-bottom: 6px single #000;
 }
 
 p {
