@@ -1,11 +1,18 @@
 /*------------------- ヘッダー画面 ---------------------------------*/
-      #header{
-      background: url(https://github.com/Takuya919/portfolio_1/blob/main/header.jpg) center center;
-      }
-
-      #header .Webtitle{
-　    font -family: 'Yesteryear', cursive;
-       }
+#header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+  height: 480px;
+  background-size: auto 100%;
+  background: url(../img/header/rustic-3441673_1920.jpg) center center;
+}
 
 h3 {
   color: red 
