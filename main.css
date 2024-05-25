@@ -38,7 +38,13 @@ div.watasi_maru {
    font-family: 'Yesteryear', cursive;
    color: white
 }
-
+#header .sublogo {
+  display: block;
+  font-size: 36px;
+  text-align: center;
+  margin-top: 30px;
+  color: #fff;
+}
 
 h3 {
   color: red 
