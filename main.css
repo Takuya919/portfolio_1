@@ -2,6 +2,19 @@
 #wall {
   background-color: #f5f5f5;
 }
+/*------------------- アイコン ---------------------------------*/
+div.watasi {
+  width: 100px;
+  padding: 5px;
+  border-radius:50%;
+  background: linear-gradient(to right bottom, #c71585, #ffc0cb);
+}
+div.watasi_maru {
+  height: 100px;
+  border-radius:50%;
+  background-image: url("Takuya.png");
+  background-position: 27% 20%;
+}
 /*------------------- ヘッダー画面 ---------------------------------*/
 #header {
   display: -webkit-box;
