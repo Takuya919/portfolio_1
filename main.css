@@ -14,7 +14,7 @@ div.watasi_maru {
   border-radius:50%; /*heigtとborder-radiusで『〇』になる*/
   background-image: url("Takuya.png");
   background-position: auto; /* 横、縦 */
-  object-fit: cover;  
+  background-size: cover;  
 }
 div.note{
    display: flex;
