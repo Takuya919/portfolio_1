@@ -1,5 +1,5 @@
 /*------------------- ヘッダー画面 ---------------------------------*/
-      #header .Webtitle {
+      #header {
       display: -webkit-box;
        display: -ms-flexbox;
        display: flex;
