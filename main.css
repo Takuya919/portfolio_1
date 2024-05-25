@@ -1,13 +1,19 @@
 @charset "utf-8";
      .title {
-     position: fixed; /* ヘッダーを固定 */ 
-     top: 0; /* 上からの配置 */
-     left: 0; /* 左からの配置 */
-     width: 100%; /* ヘッダーの横幅 */
-     height: 35px; /* ヘッダーの高さを指定 */
-     padding: 10px; /* ヘッダーの余白を指定 */
-     background: url('https://github.com/Takuya919/portfolio_1/blob/main/header.jpg');
-     color: #000000; /* フォントの色を指定する */
+      display: -webkit-box;
+       display: -ms-flexbox;
+       display: flex;
+  -     webkit-box-pack: center;
+       -ms-flex-pack: center;
+       justify-content: center;
+       -webkit-align-items: center;
+       -ms-align-items: center;
+       align-items: center;
+       height: 480px;
+       background-size: auto 100%;
+       background: url(../img/header/rustic-3441673_1920.jpg) center center;
+}
+
      }
 h3 {
   font-family: 'Osaka'
