@@ -11,7 +11,7 @@
   align-items: center;
   height: 200px; /*高さ*/
   background-size: auto 100% ;
-  background: url(header2.jpg) center ;
+  background: url(header2.jpg) center;
 }
 
 #header .Webtitle {
@@ -20,7 +20,7 @@
 
 #header .logo {
    font-family: 'Yesteryear', cursive;
-   color: yellow
+   color: white
 }
 
 
