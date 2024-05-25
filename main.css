@@ -16,6 +16,10 @@ div.watasi_maru {
   background-position: auto; /* 横、縦 */
   object-fit: cover;  
 }
+div.note{
+   display: flex;
+ justify-content: flex-end;
+}
 /*------------------- ヘッダー画面 ---------------------------------*/
 #header {
   display: -webkit-box;
@@ -62,6 +66,25 @@ h3 {
 }
 
 /*------------------- フッター ---------------------------------*/
+#footer {
+  background-color: #333;
+}
+
+#footer .inner {
+  padding: 30px;
+}
+
+#footer .footer-link ul {
+  margin-bottom: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  justify-content: center;
+}
 #footer .footer-link li a {
   color: #fff;
   font-weight: bold;
