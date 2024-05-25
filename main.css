@@ -59,6 +59,16 @@ h3 {
   border-bottom: 2px solid #000;
 }
 
+#footer .footer-link li a {
+  color: #fff;
+  font-weight: bold;
+}
+/*------------------- フッター ---------------------------------*/
+#footer .copyright {
+  font-size: 10px;
+  color: #8c8c8c;
+  text-align: center;
+}
 p {
  font-familiy: sans-serif;
 }
