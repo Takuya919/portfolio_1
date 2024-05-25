@@ -11,7 +11,7 @@
   align-items: center;
   height: 40px; /*高さ*/
   background-size: auto 100%;
-  background: url(header2.jpg) center center;
+  background: url(header2.jpg) center ;
 }
 
 #header .Webtitle {
