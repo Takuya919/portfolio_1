@@ -67,7 +67,17 @@ h3 {
 
 /*------------------- フッター ---------------------------------*/
 #footer {
-  background-color: #333;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+  height: 50px; /*高さ*/
+  background-size: auto 100% ;
 }
 
 #footer .inner {
