@@ -7,7 +7,7 @@
      padding: 10px; /* ヘッダーの余白を指定(全体) */
      background-color: #31a9ee; /* ヘッダーの背景色を指定する */
      color: #000000; /* フォントの色を指定する */
-
+    }
 
 h3 {
   color : Yellow;
