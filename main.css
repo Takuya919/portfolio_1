@@ -9,7 +9,7 @@
   -webkit-align-items: center;
   -ms-align-items: center;
   align-items: center;
-  height: 250px; /*高さ*/
+  height: 200px; /*高さ*/
   background-size: auto 100% ;
   background: url(header2.jpg) center ;
 }
