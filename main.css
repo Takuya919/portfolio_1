@@ -1,3 +1,14 @@
+    .Header {
+    position: fixed; /* ヘッダーを固定 */ 
+     top: 0; /* 上からの配置 */
+     left: 0; /* 左からの配置 */
+     width: 100%; /* ヘッダーの横幅 */
+     height: 35px; /* ヘッダーの高さを指定 */
+     padding: 10px; /* ヘッダーの余白を指定(全体) */
+     background-color: #31a9ee; /* ヘッダーの背景色を指定する */
+     color: #000000; /* フォントの色を指定する */
+
+
 h3 {
   color : Yellow;
 }
