@@ -1,5 +1,14 @@
 /*------------------- ヘッダー画面 ---------------------------------*/
 #header {
+  /* 透過した黒を重ねる */
+	background-color: rgba(0,0,0,0.5);
+	/* どの範囲に重ねるかを指定 */
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	content: ' ';
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -9,7 +18,7 @@
   -webkit-align-items: center;
   -ms-align-items: center;
   align-items: center;
-  height: 30px;
+  height: 200px; /*高さ*/
   background-size: auto 100%;
   background: url(header.jpg) center center;
 }
