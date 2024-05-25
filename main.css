@@ -50,20 +50,22 @@ div.watasi_maru {
 
 /*------------------- 見出し ---------------------------------*/
 h2 {
+  font-family: serif;
   padding: 1rem 2rem;
   border-left: 6px double #000;
   background: #f4f4f4;
 }
 
 h3 {
+  font-family: serif;
   border-bottom: 2px solid #000;
 }
 
+/*------------------- フッター ---------------------------------*/
 #footer .footer-link li a {
   color: #fff;
   font-weight: bold;
 }
-/*------------------- フッター ---------------------------------*/
 #footer .copyright {
   font-size: 10px;
   color: #8c8c8c;
