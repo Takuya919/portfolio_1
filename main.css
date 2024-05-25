@@ -6,7 +6,7 @@
      width: 100%; /* ヘッダーの横幅 */
      height: 35px; /* ヘッダーの高さを指定 */
      padding: 10px; /* ヘッダーの余白を指定(全体) */
-     background-image: url(https://github.com/Takuya919/portfolio_1/blob/main/header.jpg)
+     background-image: url(https://github.com/Takuya919/portfolio_1/blob/main/header.jpg);
      color: #000000; /* フォントの色を指定する */
      }
 h3 {
