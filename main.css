@@ -12,7 +12,7 @@ div.watasi {
 div.watasi_maru {
   height: 100px;
   border-radius:50%; /*heigtとborder-radiusで『〇』になる*/
-  background-image: url("Takuya.png");
+  background-image: url("Takuya.png") heigt 200px width 100px;
   background-position: 60% 40%;
 }
 /*------------------- ヘッダー画面 ---------------------------------*/
