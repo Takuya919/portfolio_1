@@ -43,6 +43,7 @@ div.watasi_maru {
   font-family: serif;
    color: white;
    font-size: 20px;
+　  text-align: center;
 }
 
 /*------------------- 見出し ---------------------------------*/
@@ -53,7 +54,7 @@ h2 {
 }
 
 h3 {
-  border-bottom: 6px single #000;
+  border-bottom: 2px solid #000;
 }
 
 p {
