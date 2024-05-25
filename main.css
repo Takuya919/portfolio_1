@@ -6,7 +6,7 @@
 div.watasi {
   width: 200px;
   padding: 5px;
-  border-radius:50%;
+  border-radius:100%;
   background: white;
 }
 div.watasi_maru {
@@ -40,10 +40,10 @@ div.watasi_maru {
 }
 #header .sublogo {
   display: block;
-  font-size: 36px;
+  font-size: 20px;
   text-align: center;
   margin-top: 30px;
-  color: #fff;
+  color: white
 }
 
 h3 {
