@@ -1,9 +1,9 @@
 /*------------------- ヘッダー画面 ---------------------------------*/
-      #header {
+      #header{
       background: url(https://github.com/Takuya919/portfolio_1/blob/main/header.jpg) center center;
       }
 
-      #header .Webtitle {
+      #header .Webtitle{
 　    font -family: 'Yesteryear', cursive;
        }
 
