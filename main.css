@@ -16,7 +16,7 @@ div.watasi_maru {
   background-position: auto; /* 横、縦 */
   background-size: cover;  
 }
-div.note{
+div .note{
   display: flex;
   justify-content: flex-end;
   width: 65px;
@@ -24,7 +24,7 @@ div.note{
   border-radius: 50%;
   position:relative ;
   top: 20px;
-  right: 100px;
+  left: 20px;
 }
 /*------------------- ヘッダー画面 ---------------------------------*/
 #header {
