@@ -8,13 +8,17 @@ div.watasi {
   padding: 5px;
   border-radius:100%;
   background: white;
+  position: relative ;
+  right: 20px;
 }
 div.watasi_maru {
   height: 100px; 
   border-radius:50%; /*heigtとborder-radiusで『〇』になる*/
   background-image: url("Takuya.png");
   background-position: auto; /* 横、縦 */
-  background-size: cover;  
+  background-size: cover; 
+  position: relative ;
+  right: 20px;
 }
 div .note{
   display: flex;
@@ -23,6 +27,8 @@ div .note{
   height: 40px;
   border-radius: 50%;
   position: relative ;
+  top: 50px;
+  left: 20px
 }
 /*------------------- ヘッダー画面 ---------------------------------*/
 #header {
