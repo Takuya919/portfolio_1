@@ -27,7 +27,7 @@ div .note{
 }
 div .twitter{
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   border-radius: 50%;
   margin-left:auto;
   position: relative ;
