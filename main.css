@@ -80,35 +80,13 @@ h3 {
 }
 
 /*------------------- フッター ---------------------------------*/
-#footer {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-align-items: center;
-  -ms-align-items: center;
-  align-items: center;
-  height: 50px; /*高さ*/
-  background-size: auto 100% ;
-}
-
-
-#footer  .list li {
-  margin: 10px;
-  padding: 10px;
-  width: 100px;
-  display:flex;
-}
- 
-
 #footer .copyright {
   font-size: 10px;
   color: #8c8c8c;
   text-align: right;　
 }
 
+/*------------------- 文字---------------------------------*/
 p {
 font-family: serif;
 }
