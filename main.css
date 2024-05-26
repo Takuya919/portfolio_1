@@ -19,6 +19,7 @@ div.watasi_maru {
 div.note{
    display: flex;
  justify-content: flex-end;
+  position:relative 300px
 }
 /*------------------- ヘッダー画面 ---------------------------------*/
 #header {
