@@ -19,7 +19,7 @@ div.watasi_maru {
 div .note{
   display: flex;
   justify-content: flex-end;
-  width: 30px;
+  width: 10px;
   height: 10px;
   border-radius: 50%;
   margin-left:auto;
