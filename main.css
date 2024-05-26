@@ -20,7 +20,7 @@ div.note{
    display: flex;
  justify-content: flex-end;
   position:relative ;
-  top: 250px;
+  top: 20px;
 }
 /*------------------- ヘッダー画面 ---------------------------------*/
 #header {
