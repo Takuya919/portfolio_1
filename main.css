@@ -9,7 +9,7 @@ div.watasi {
   border-radius:100%;
   background: white;
   position: relative ;
-  right: 20px;
+  left: 20px;
 }
 div.watasi_maru {
   height: 100px; 
@@ -18,7 +18,7 @@ div.watasi_maru {
   background-position: auto; /* 横、縦 */
   background-size: cover; 
   position: relative ;
-  right: 20px;
+  left: 20px;
 }
 div .note{
   display: flex;
@@ -28,7 +28,7 @@ div .note{
   border-radius: 50%;
   position: relative ;
   top: 50px;
-  left: 20px
+  right: 20px
 }
 /*------------------- ヘッダー画面 ---------------------------------*/
 #header {
