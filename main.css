@@ -94,24 +94,19 @@ h3 {
   background-size: auto 100% ;
 }
 
-#footer .list{
-  
-  list-style-type: none;
-  display: flex;
-}
 
 #footer  .list li {
   margin: 10px;
   padding: 10px;
   width: 100px;
-  text-align: center;
+  display:flex;
 }
  
 
 #footer .copyright {
   font-size: 10px;
   color: #8c8c8c;
-  text-align: center;　
+  text-align: right;　
 }
 
 p {
