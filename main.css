@@ -21,6 +21,10 @@ div.note{
  justify-content: flex-end;
   position:relative ;
   top: 20px;
+  right: 30px;
+  width: 65px;
+  height: 40px;
+  border-radius: 50%;
 }
 /*------------------- ヘッダー画面 ---------------------------------*/
 #header {
