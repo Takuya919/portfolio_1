@@ -17,8 +17,8 @@ div.watasi_maru {
   background-size: cover;  
 }
 div.note{
-   display: flex;
- justify-content: flex-end;
+  display: flex;
+  justify-content: flex-end;
   width: 65px;
   height: 40px;
   border-radius: 50%;
